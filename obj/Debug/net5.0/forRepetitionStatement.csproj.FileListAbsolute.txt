@@ -1,0 +1,16 @@
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\forRepetitionStatement.exe
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\forRepetitionStatement.deps.json
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\forRepetitionStatement.runtimeconfig.json
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\forRepetitionStatement.runtimeconfig.dev.json
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\forRepetitionStatement.dll
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\ref\forRepetitionStatement.dll
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\bin\Debug\net5.0\forRepetitionStatement.pdb
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.csprojAssemblyReference.cache
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.AssemblyInfoInputs.cache
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.AssemblyInfo.cs
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.csproj.CoreCompileInputs.cache
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.dll
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\ref\forRepetitionStatement.dll
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.pdb
+C:\Users\JESULAYO\Documents\EEG 324\forRepetitionStatement\obj\Debug\net5.0\forRepetitionStatement.genruntimeconfig.cache
